@@ -1,0 +1,11 @@
+# Ignore PDF files
+*.pdf
+
+# Jupyter Notebook & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS artifacts
+.DS_Store
+
