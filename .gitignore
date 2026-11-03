@@ -1,6 +1,11 @@
 # Ignore PDF files
 *.pdf
 
+# Dataset directories & archives
+*.zip
+tiny-imagenet-200/
+tiny_dataset_600/
+
 # Jupyter Notebook & Python artifacts
 .ipynb_checkpoints/
 __pycache__/
@@ -8,4 +13,3 @@ __pycache__/
 
 # OS artifacts
 .DS_Store
-
